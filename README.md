@@ -4,4 +4,4 @@
 layout fiz com gpt então ficou what ever : 
 
 [layout](https://github.com/valNonaka/Simplest_bmi_Calculator/blob/main/icon/Captura%20de%20tela%201.png)
-
+[layout2](https://github.com/valNonaka/Simplest_bmi_Calculator/blob/main/icon/Captura%20de%20tela%202023-11-18%20180337.png)
